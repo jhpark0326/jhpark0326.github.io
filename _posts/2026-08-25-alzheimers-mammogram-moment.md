@@ -9,6 +9,8 @@ categories:
 excerpt: "Blood biomarkers are transforming Alzheimer's assessment. Their impact will depend on accessibility, coverage, and continued investment in basic neuroscience."
 ---
 
+# {{ page.title }}
+
 *Blood biomarkers are transforming Alzheimer's assessment. Their impact depends on accessibility, coverage, and continued investment in basic science.*
 
 When my father started changing at around age 67, my family did not immediately think of illness. He seemed emotionally more fragile, and familiar tasks became more difficult for him. We initially interpreted those changes as aging or personality. Only later did we understand that something was failing in his brain. Even then, my family never received a clear neurological diagnosis. We did not know which disease caused his decline.
@@ -31,17 +33,11 @@ Separate evidence suggests that blood biomarkers may also improve decisions in p
 
 Alzheimer's disease is known to begin its underlying pathology decades before cognitive symptoms appear [3]. Earlier assessment is particularly relevant because the FDA-approved drugs lecanemab and donanemab slowed clinical decline in trials of patients with mild cognitive impairment or mild dementia due to Alzheimer's disease [4,5]. Neither has been shown to help once the disease has progressed further.
 
-Blood testing cannot replace a complete clinical evaluation. It could, however, make early assessment more accessible, especially where specialist care is limited.
+Blood testing cannot replace a complete clinical evaluation. It could, however, make early assessment more accessible, especially where specialist care is limited. Living in Lubbock has made this challenge tangible to me. Lubbock serves as a medical hub for a large region of West Texas, yet neurology appointments can still involve substantial waits. Patients from smaller surrounding communities may face longer drives to reach specialist care. Blood biomarkers could eventually help primary care clinicians determine which patients need further specialist evaluation and which need investigation for other causes of decline.
 
-Living in Lubbock has made this challenge tangible to me. Lubbock serves as a medical hub for a large region of West Texas, yet neurology appointments can still involve substantial waits. Patients from smaller surrounding communities may face longer drives to reach specialist care. Blood biomarkers could eventually help primary care clinicians determine which patients need further specialist evaluation and which need investigation for other causes of decline.
+Current FDA clearance, however, applies to symptomatic patients only. It does not authorize routine screening of cognitively healthy adults [1]. Medicare also does not currently provide a specific coverage pathway for blood-based dementia screening [6,7]. Congress is considering the bipartisan Alzheimer's Screening and Prevention Act, or ASAP Act (H.R. 6130 and S. 3267). Rather than supporting one specific commercial test, the legislation would create Medicare coverage authority for eligible early-detection screening tests beginning in 2028 [6,7].
 
-Current FDA clearance, however, applies to symptomatic patients only. It does not authorize routine screening of cognitively healthy adults [1]. Medicare also does not currently provide a specific coverage pathway for blood-based dementia screening [6,7].
-
-Congress is considering the bipartisan Alzheimer's Screening and Prevention Act, or ASAP Act (H.R. 6130 and S. 3267). Rather than supporting one specific commercial test, the legislation would create Medicare coverage authority for eligible early-detection screening tests beginning in 2028 [6,7].
-
-The Alzheimer's Impact Movement calls this the field's "mammogram moment" [8]. Mammography existed long before Congress created routine Medicare coverage in 1991. In the years that followed, screening became far more widespread and breast cancer mortality declined substantially [8].
-
-Mammography itself did not cure breast cancer. Its public-health impact came from enabling earlier, more accessible detection and connecting abnormal results to appropriate follow-up care.
+The Alzheimer's Impact Movement calls this the field's "mammogram moment" [8]. Mammography existed long before Congress created routine Medicare coverage in 1991. In the years that followed, screening became far more widespread and breast cancer mortality declined substantially [8]. Mammography itself did not cure breast cancer. Its public-health impact came from enabling earlier, more accessible detection and connecting abnormal results to appropriate follow-up care.
 
 ## What would a true mammogram moment require?
 
