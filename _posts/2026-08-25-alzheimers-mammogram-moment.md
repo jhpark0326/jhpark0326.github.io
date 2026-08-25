@@ -2,7 +2,6 @@
 layout: post
 title: "Is Alzheimer's Having Its Mammogram Moment?"
 date: 2026-08-25
-permalink: /writing/alzheimers-mammogram-moment/
 categories:
   - Alzheimer's Disease
   - Science Policy
