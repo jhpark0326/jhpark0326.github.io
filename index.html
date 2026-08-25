@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -502,17 +504,33 @@
           Ambassador with the Society for Neuroscience.
         </p>
 
-        <div class="advocacy-card">
-          <div class="label">Forthcoming Article</div>
+        {% for post in site.posts limit:3 %}
 
-          <h3>Could Alzheimer's Be Approaching Its Mammogram Moment?</h3>
+<div class="advocacy-card">
 
-          <p>
-            A public-facing perspective on blood-based biomarkers, access to
-            neurological care, and why sustained investment in biomedical research
-            matters for families affected by Alzheimer's disease.
-          </p>
-        </div>
+  <div class="label">
+    {{ post.date | date: "%B %d, %Y" }}
+  </div>
+
+  <h3>
+    <a href="{{ post.url | relative_url }}">
+      {{ post.title }}
+    </a>
+  </h3>
+
+  <p>
+    {{ post.excerpt | strip_html | truncate: 240 }}
+  </p>
+
+  <p>
+    <a href="{{ post.url | relative_url }}">
+      Read article →
+    </a>
+  </p>
+
+</div>
+
+{% endfor %}
       </div>
     </section>
 
